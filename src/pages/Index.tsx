@@ -22,12 +22,12 @@ const Index = () => {
           <p className="text-xl md:text-2xl text-white/90 mb-8 font-medium">
             Affordable training for fitness and skill-building
           </p>
-          <a href="tel:9744616126">
+          <a href="tel:8301863626">
             <Button 
               size="lg" 
               className="text-lg px-8 py-6 font-bold hover:scale-105 transition-transform"
             >
-              Call: 9744616126
+              Call: 8301863626
             </Button>
           </a>
         </div>
@@ -59,12 +59,12 @@ const Index = () => {
               <div className="text-muted-foreground mb-4">
                 Plus one-time admission fee
               </div>
-              <a href="tel:9744616126" className="block">
+              <a href="tel:8301863626" className="block">
                 <Button 
                   className="w-full font-bold"
                   size="lg"
                 >
-                  Call: 9744616126
+                  Call: 8301863626
                 </Button>
               </a>
             </CardContent>
@@ -124,12 +124,12 @@ const Index = () => {
           <p className="text-xl mb-8">
             Join us today and begin your boxing journey at Flex Gym!
           </p>
-          <a href="tel:9744616126">
+          <a href="tel:8301863626">
             <Button 
               size="lg" 
               className="text-lg px-12 py-6 font-bold hover:scale-105 transition-transform"
             >
-              Call: 9744616126
+              Call: 8301863626
             </Button>
           </a>
         </div>
